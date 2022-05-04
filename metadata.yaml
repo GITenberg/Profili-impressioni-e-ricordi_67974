@@ -1,0 +1,32 @@
+_repo: Profili-impressioni-e-ricordi_67974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neera
+    alias: Zuccari, Anna Radius
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7687'
+    url: http://www.gutenberg.org/2009/agents/7687
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anna_Radius_Zuccari
+    - https://it.wikipedia.org/wiki/Neera_(scrittrice)
+description: ''
+gutenberg_issued: '2022-05-03'
+identifiers:
+  gutenberg: '67974'
+language: it
+pgterms:marc904: https://archive.org/details/profiliimpressio00zuccuoft
+pgterms:marc905: 20210104083901radiuszucc
+pgterms:marc906: '1920'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Cogliati,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Profili impressioni e ricordi
+url: http://www.gutenberg.org/ebooks/67974
